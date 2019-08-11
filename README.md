@@ -22,3 +22,12 @@ This notebook deals with creating a DNN with data preparation for DNN like compu
 This notebook performs exploratory data analysis. It needs some of the files created by the above two notebooks to do that. 
 4.	MPS_RNN_Data_Modeling.ipynb
 This notebook performs data modelling using RNN
+
+
+
+### Results:
+
+![Screen Shot 2019-08-11 at 5 19 54 PM](https://user-images.githubusercontent.com/17843556/62840207-47da1b00-bc5c-11e9-9764-919088de546b.png)
+
+*EE = Entity Embeddings
+*DNN = Deep Neural Network
